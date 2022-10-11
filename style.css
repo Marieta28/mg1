@@ -69,26 +69,26 @@ body{
     }
 
     .item:nth-child(2) {
-      background: url('./աջարական.jpg');
+      background: url('./4պանիր1․jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
     }
 
     .item:nth-child(3) {
-      background: url('./4\ պանիր.jpg');
+      background: url('./պեպերոնի1.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
     }
     .item:nth-child(4) {
-      background: url('./ՄԳ.jpg');
+      background: url('./mg1.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
     }
     .item:nth-child(5) {
-      background: url('./Պեպերոնի.jpg');
+      background: url('./հավով1.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
